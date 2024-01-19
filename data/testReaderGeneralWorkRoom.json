@@ -1,0 +1,21 @@
+{
+  "name": "UBC Thunderbirds",
+  "Players": [
+    {
+      "Position": "CENTER",
+      "Playable": true,
+      "Jersey Number": 6,
+      "name": "Davis",
+      "Height": 208,
+      "Year": 3
+    },
+    {
+      "Position": "POWERFORWARD",
+      "Playable": true,
+      "Jersey Number": 23,
+      "name": "lebron",
+      "Height": 198,
+      "Year": 4
+    }
+  ]
+}

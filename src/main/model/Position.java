@@ -1,0 +1,5 @@
+package model;
+
+public enum Position {
+    POINTGUARD, SHOOTINGGUARD, SMALLFORWARD, POWERFORWARD, CENTER
+}
